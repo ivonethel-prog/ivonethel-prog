@@ -1,13 +1,18 @@
-## Hi there soy Ivone 👋
+<h1 align="center">Hola mi nombre es 👋, Ivone Ethel</h1>
+<h3 align="center">junior data analyts</h3>
 
-<!--
-**ivonethel-prog/ivonethel-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on reforzar **mi aprendizaje en analisis.**
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning y practicando en **SQL e Ingles.**
 
-- 🔭 I’m currently working on reforzar mi aprendizaje en analisis. 
-- 🌱 I’m currently learning y practicando en Python, SQL e Ingles.
-- 👯 I’m looking to collaborate on nuevas automatizaciones para ahorrar tiempo
-- 📫 How to reach me: ivonethel@gmail.com
-- ⚡ Fun fact: soy reflexologa podal
--->
+- 📫 How to reach me **ivonethel@gmail.com**
+
+- ⚡ Fun fact **soy reflexologa podal**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ivone-britos-8486152a0" target="blank"><img align="center" Lenguajes y herramientas
+:
+
+
+
