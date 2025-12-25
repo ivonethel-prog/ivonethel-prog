@@ -12,7 +12,12 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivone-britos-8486152a0" target="blank"><img align="center" Lenguajes y herramientas
-:
+: ​src="https://github-readme-stats.vercel.app/api/top-langs?username=ivonethel-prog&show_icons=true&locale=es&layout=compact" alt="ivonethel-prog" /></p>
+
+
+
+
+
 
 
 
