@@ -1,9 +1,9 @@
 <h1 align="center">Hola mi nombre es 👋, Ivone Ethel</h1>
-<h3 align="center">ANALISTA DE DATOS JR</h3>
+<h3 align="center">Analista de Fallas Junior </h3>
 
-- 🔭 Actualmente estoy trabajando en reforzar **mi aprendizaje en analisis.**
+- 🔭 Actualmente estoy trabajando en reforzar **proyectos de diagnoticos de fallas equipos pesados.**
 
-- 🌱 Actualmente estoy aprendiendo y practicando en **SQL e Ingles.**
+- 🌱 Actualmente estoy aprendiendo y practicando en **diagnotico de fallas en motor Caterpillar.**
 
 - 📫 Cómo contactarme **ivonethel@gmail.com**
 
